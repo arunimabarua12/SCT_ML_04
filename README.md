@@ -45,15 +45,9 @@ A custom-built Convolutional Neural Network (CNN) with the following layers:
 
 ---
 
-## 🛠️ Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/hand-gesture-cnn.git
-cd hand-gesture-cnn
 
 
-🗃️ Project Structure
+# 🗃️ Project Structure
 
 hand-gesture-cnn/
 ├── hand_gesture_recognition.py     # Main project script
@@ -62,7 +56,7 @@ hand-gesture-cnn/
 ├── /leapGestRecog/                 # Dataset directory
 └── /my-hand/                       # Custom test images (optional)
 
-📊 Evaluation Metrics
+# 📊 Evaluation Metrics
 ✅ Accuracy
 
 ✅ Classification Report
@@ -72,6 +66,10 @@ hand-gesture-cnn/
 ✅ Per-image prediction confidence
 
 # 🧪 Prediction Examples
-<img width="1120" height="469" alt="Screenshot 2025-07-09 162827" src="https://github.com/user-attachments/assets/c24ccb0a-00fc-4b95-bd41-d14092fc1042" /> <img width="1274" height="539" alt="Screenshot 2025-07-10 023935" src="https://github.com/user-attachments/assets/66b15aa5-915f-4a44-92eb-fe5edd9f347f" />
+<img width="1120" height="469" alt="Screenshot 2025-07-09 162827" src="https://github.com/user-attachments/assets/93464522-0c8d-4f7c-b96e-6aaf6f0148cc" />
+<img width="1274" height="539" alt="Screenshot 2025-07-10 023935" src="https://github.com/user-attachments/assets/884b2b1a-0b39-41f8-be4d-7f50fc5a0b46" />
+
+
+
 
 
