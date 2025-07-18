@@ -20,8 +20,8 @@ A full-featured deep learning project that classifies hand gestures using graysc
   - c
   - down
   - 
-**📂Test Dataset**: A custom hand gesture test dataset is available to validate a trained model on real-world samples.
--
+**📂Test Dataset**: A custom hand gesture test dataset is available to validate a trained model on real-world samples
+
 **Dataset**: https://www.kaggle.com/datasets/arunimabarua/my-hand/data
 ---
 
